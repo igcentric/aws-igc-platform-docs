@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Linux temp/editor files
+*~
+*.swp
+*.swo
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Environment/secrets
+.env
+.env.*
+
+# Terraform leftovers (if examples get added later)
+.terraform/
+*.tfstate
+*.tfstate.*
